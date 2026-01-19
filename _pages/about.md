@@ -31,7 +31,7 @@ My research interests lie in automated reasoning for program synthesis and verif
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/personal_page_project1.pdf' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Synthesize graph queries from user demonstrations (Under Review)]()
@@ -45,7 +45,7 @@ inferring meaningful graph patterns for matching and e￿ciently constructing th
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/biostat.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/biostat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Single-cell network biology characterizes cell-type gene regulation for drug repurposing and phenotype prediction in Alzheimer's disease](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1010287)
