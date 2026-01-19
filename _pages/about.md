@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-My research interests lie in automated reasoning for program synthesis and verification problems in graph and vector databases. Currently, I am especially interested in how formal methods can be used to verify and reason about performance and security properties in database systems. I am also keen to explore robustness and security challenges in AI agents.
+My research interests lie in automated reasoning for program synthesis and verification problems in graph and vector databases. Currently, I am especially interested in how formal methods can be used to verify and reason about performance and security properties in database systems. I am also keen to explore robustness and security challenges in AI agents. ⚡️⚡️ Looking for internships as Research Scientist or Research Engineer in 2026. 
 
 
 # 📖 Educations
@@ -31,7 +31,7 @@ My research interests lie in automated reasoning for program synthesis and verif
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Synthesize graph queries from user demonstrations (Under Review)]()
