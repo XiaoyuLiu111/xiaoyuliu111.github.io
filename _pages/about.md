@@ -31,19 +31,19 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.jpg' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
+<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.jpg' alt="sym" width="100%"></div></div> -->
+<!-- <div class='paper-box-text' markdown="1"> -->
 
-[Synthesizing graph queries from user demonstrations (Under Review)]()
+<!-- [Synthesizing graph queries from user demonstrations (Under Review)]()-->
 <!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
 
-**Xiaoyu Liu**, Qikang Liu, Evan Dyce, Yuepeng Wang
+<!-- **Xiaoyu Liu**, Qikang Liu, Evan Dyce, Yuepeng Wang-->
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our method addresses the challenge of
-inferring meaningful graph patterns for matching and e￿ciently constructing the remaining components of the query. Specifically, we combine graph mining, which identifies candidate patterns across input graphs, with deduction-based pruning, which guides an efficient synthesis of the filtering predicate and return clause.
-</div>
-</div>
+<!-- - We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our method addresses the challenge of
+inferring meaningful graph patterns for matching and e￿ciently constructing the remaining components of the query. Specifically, we combine graph mining, which identifies candidate patterns across input graphs, with deduction-based pruning, which guides an efficient synthesis of the filtering predicate and return clause. -->
+<!-- </div>-->
+<!-- </div> -->
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/biostat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
