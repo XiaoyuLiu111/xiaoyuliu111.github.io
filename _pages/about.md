@@ -41,6 +41,7 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
 - We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our technique addresses two key challenges: inferring meaningful graph patterns and efficiently navigating the large query search space. To identify candidate graph patterns, we develop a graph-mining-based pattern synthesis technique. We then leverage automated deductive reasoning and constraint solving to efficiently complete query.
 </div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/biostat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -49,9 +50,6 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 
 Chirag Gupta, Jielin Xu, Ting Jin, Saniya Khullar, **Xiaoyu Liu**, Sayali Alatkar, Feixiong Cheng, Daifeng Wang
 
-<!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our method addresses the challenge of
-inferring meaningful graph patterns for matching and e￿ciently constructing the remaining components of the query. Specifically, we combine graph mining, which identifies candidate patterns across input graphs, with deduction-based pruning, which guides an efficient synthesis of the filtering predicate and return clause. -->
 </div>
 </div>
 
