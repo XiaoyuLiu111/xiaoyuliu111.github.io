@@ -1,7 +1,7 @@
 # main links links
 main:
-    - title: "CV"
-    url: "/images/Xiaoyu_Liu_CV.pdf"
+    # - title: "CV"
+    # url: "/images/Xiaoyu_Liu_CV.pdf"
   # - title: "About Me"
   #   url: "/#about-me"
 
