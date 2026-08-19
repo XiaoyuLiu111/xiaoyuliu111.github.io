@@ -17,11 +17,11 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https://www.cs.sfu.ca/~yuepeng/). My research interests lie in automated reasoning for program synthesis and verification problems in graph and vector databases. Currently, I am especially interested in how formal methods can be used to verify and reason about performance and security properties in database systems. I am also keen to explore robustness and security challenges in AI agents. ⚡️⚡️ Looking for internships as Research Scientist or Research Engineer in 2026. 
+I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https://www.cs.sfu.ca/~yuepeng/). My research interests lie in automated reasoning for program synthesis and verification problems in graph and vector databases. Currently, I am especially interested in how formal methods can be used to verify and reason about performance and security properties in database systems. I am also keen to explore robustness and security challenges in AI agents. ⚡️⚡️ Looking for internships as Research Scientist or Research Engineer in 2027. 
 
 
 # 📖 Educations
-- *2024.01 - 2028.01 (estimate)*, Ph.D. in Computing Science, Simon Fraser University 
+- *2024.01 - present, Ph.D. in Computing Science, Simon Fraser University 
 - *2020.09 - 2022.06*, Master of Science in Data Science, UW-Madison
 - *2016.09 - 2020.06*, Bachelor of Science in Statistics, Hunan University
 
@@ -31,19 +31,16 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 
 # 📝 Publications 
 
-<!-- <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.jpg' alt="sym" width="100%"></div></div> -->
-<!-- <div class='paper-box-text' markdown="1"> -->
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
 
-<!-- [Synthesizing graph queries from user demonstrations (Under Review)]()-->
-<!-- (https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf) -->
+[Synthesizing graph queries from user demonstrations (To Appear in OOPSLA 2026)]()
 
-<!-- **Xiaoyu Liu**, Qikang Liu, Evan Dyce, Yuepeng Wang-->
+**Xiaoyu Liu**, Qikang Liu, Evan Dyce, Yuepeng Wang
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-<!-- - We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our method addresses the challenge of
-inferring meaningful graph patterns for matching and e￿ciently constructing the remaining components of the query. Specifically, we combine graph mining, which identifies candidate patterns across input graphs, with deduction-based pruning, which guides an efficient synthesis of the filtering predicate and return clause. -->
-<!-- </div>-->
-<!-- </div> -->
+- We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our technique addresses two key challenges: inferring meaningful graph patterns and efficiently navigating the large query search space. To identify candidate graph patterns, we develop a graph-mining-based pattern synthesis technique. We then leverage automated deductive reasoning and constraint solving to efficiently complete query.
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/biostat.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
