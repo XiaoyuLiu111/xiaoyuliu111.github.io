@@ -31,7 +31,7 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/graphQ.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='workflow_3-crop.pdf' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Synthesizing graph queries from user demonstrations (To Appear in OOPSLA 2026)]()
