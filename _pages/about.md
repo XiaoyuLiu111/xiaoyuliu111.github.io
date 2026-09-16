@@ -31,7 +31,7 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/oopsla2026.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge"></div><img src='images/wkfl' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Synthesizing graph queries from user demonstrations (OOPSLA 2026)]()
@@ -39,7 +39,7 @@ I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https:
 **Xiaoyu Liu**, Qikang Liu, Evan Dyce, Yuepeng Wang
 
 <!-- [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong> -->
-- We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our technique addresses two key challenges: inferring meaningful graph patterns and efficiently navigating the large query search space. To identify candidate graph patterns, we develop a graph-mining-based pattern synthesis technique. We then leverage automated deductive reasoning and constraint solving to efficiently complete query.
+- Writing graph queries is challenging for non-experts due to the complexity of graph data models and the need to identify proper graph patterns. While recent research has advanced query synthesis for relational and document databases, the problem of synthesizing graph queries remains under-explored. We present a novel approach for synthesizing graph queries from computation demonstrations, where users specify the desired output through expressions over properties of input graphs. Our method addresses the challenge of inferring meaningful graph patterns for matching and efficiently constructing the remaining components of the query. Specifically, we combine graph mining, which identifies candidate patterns across input graphs, with deduction-based pruning, which guides an efficient synthesis of the filtering predicate and return clause. We have implemented our approach in a tool called DMiner and evaluated it on 90 benchmarks. Experimental results show that DMiner successfully synthesizes desired queries for 87 benchmarks, with an average synthesis time of 0.6 seconds per query. This outperforms both enumerative search and LLM baselines. We also conducted a user study, which shows that users can provide demonstrations with modest effort and 87.5% of the provided demonstrations are sufficient for DMiner to synthesize the desired query.
 </div>
 </div>
 
