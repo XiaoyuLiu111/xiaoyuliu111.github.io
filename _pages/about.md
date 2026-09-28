@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https://www.cs.sfu.ca/~yuepeng/). My research interests lie in automated reasoning for program synthesis and verification problems in graph and vector databases. Currently, I am especially interested in how formal methods can be used to verify and reason about performance and security properties in database systems. I am also keen to explore robustness and security challenges in AI agents. ⚡️⚡️ Looking for internships as Research Scientist or Research Engineer in 2027. 
+I'm a Ph.D. student at Simon Fraser University, advised by [Yuepeng Wang](https://www.cs.sfu.ca/~yuepeng/). My research focuses on automated reasoning and program synthesis/verification. Currently, I am interested in using formal methods to systematically generate tests that expose discrepancies between LLM-generated Python programs and natural-language specifications. ⚡️⚡️ Looking for internships as Research Scientist or Research Engineer in 2027. 
 
 
 # 📖 Educations
